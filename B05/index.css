@@ -1,0 +1,31 @@
+#div-header {
+    background-color: aquamarine;
+    }
+#div-nav {
+    background-color: bisque;
+    }   
+#div-section {
+    background-color: aliceblue;
+    color: black;
+    }
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
+ol {
+    list-style-type: lower-alpha;
+    color: black;
+}
+ul {
+    list-style-type: square;
+    color: black;
+}
+p {
+    font-size: 12px;
+    color: rgb(8, 7, 7);
+    border: 2px solid #090808;
+    border-radius: 10px
+    } 
+
+    
